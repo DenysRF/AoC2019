@@ -1,5 +1,7 @@
 package answers;
+
 import code.Fuel;
+
 public class Day1 {
     public static void main(String[] args) {
         Fuel fuel = new Fuel();
